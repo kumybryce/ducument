@@ -24,4 +24,8 @@ mmWaveStudio GUI的特征如下：
       - [ ] 2243: `03.00.00.14`
 
 2. 安装32位的Matlab Runtime Engine（[Version 8.5.1](https://in.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015aSP1/installers/win32/MCR_R2015aSP1_win32_installer.exe)），用于数据处理
-3. 安装FTDI驱动，对于 `AWR2243` 来说，这一步需要连接板子（micro usb接口）
+3. 安装FTDI驱动，对于 `AWR2243` 来说，这一步需要连接板子（Mini-B接口）
+
+运行时板子连线
+
+1. 1843需要两根能传数据的`Micro-B`线
